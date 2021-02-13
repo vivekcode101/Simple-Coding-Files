@@ -1,4 +1,2 @@
-# health-checks
-scripts that help to check the health of my computers
-
-This repo will be populated with lots of fancy checks
+# Simple-Codes
+Codes that i learn i upload here
